@@ -1,4 +1,0 @@
-[build] 
-command = "cd frontend && 
-CI=false npm run build" 
-publish = "frontend/build"
